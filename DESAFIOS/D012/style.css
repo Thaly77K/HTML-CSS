@@ -63,7 +63,7 @@ section.normal {
     background-color: white;
     color: black;
     padding-top: 1vh;
-    padding-bottom: 1vh;
+    padding-bottom: 5vh;
 }
 
 section.imagem > p {
@@ -107,7 +107,7 @@ footer {
     text-align: center;
     color: white;
     font-family: var(--fonte3);
-    
+    padding: 10px;
 }
 
 footer a {
